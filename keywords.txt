@@ -1,0 +1,21 @@
+#######################################################
+#  Syntax Painting Map for SumoRobot Arduino Library  #
+#######################################################
+
+#Datatyes:
+
+SumoRobot	KEYWORD1
+
+#Functions:
+
+Begin	KEYWORD2
+Stop	KEYWORD2
+irSetup	KEYWORD2
+ir	KEYWORD2
+ultraSetup	KEYWORD2
+ultraRead	KEYWORD2
+initSumo	KEYWORD2
+setMotors	KEYWORD2
+ #############
+ #	The END	 #
+ #############
