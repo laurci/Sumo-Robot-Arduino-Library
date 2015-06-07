@@ -7,7 +7,7 @@ or micro sumo robot for ages and you can't make it work
 like you would like, this very simple and efficient way
 to make your sumo robot, just better!
 We present to you, the first version of: 
-* The Arduino Sumo Robot Library * !
+The Arduino Sumo Robot Library!
 It's a quick way to make your sumo robot better,
 make it think faster, make decisions better, control
 it more easily! Shrink your very complicated software
