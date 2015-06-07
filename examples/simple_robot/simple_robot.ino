@@ -14,9 +14,9 @@ Thanks to Ion Ghiteanu -YO9BXE- for his support*/
 char n = 'N'; //A initial for the robot name
 // will be usefull in the next version of the lib.
 char iMode = 'C';//The intrerrups and timer modes.
-//The options are: C - Classic Mode (100 Hz)
-//                 A - Advanced Mode (1.6 MHz)
-//                 M - You are crazy man (~5 MHz)
+//The options are: C - Classic Mode
+//                 A - Advanced Mode 
+//                 M - You are crazy man 
 //                 N - Disable Intrerrupts
 int motors[] = {3, 11, 5, 6}; // Motor control
 //Pins in order, doesn't count if 3/motor (L298 Driver)
