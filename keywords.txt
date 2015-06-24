@@ -16,6 +16,8 @@ ultraSetup	KEYWORD2
 ultraRead	KEYWORD2
 initSumo	KEYWORD2
 setMotors	KEYWORD2
+irAnalogSetup	KEYWORD2
+irAnalogRead	KEYWORD2
  #############
  #	The END	 #
  #############
